@@ -11,6 +11,7 @@
 #include <algorithm>
 #include <stdexcept>
 #include "LinearPartition.h"
+#include "logspace.h"
 
 using namespace std;
 
